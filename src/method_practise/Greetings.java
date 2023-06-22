@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Greetings {
 
-    public static void main(String arcs[]) {
+    public static void main(String args[]) {
 
         greetUser();
     }
